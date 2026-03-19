@@ -25,11 +25,14 @@ Given the information {information} \n\n about a person I want you to create:
 2. Two interesting facts about
 """
 
-system_prompt_template = PromptTemplate(input_variables=["information"], template=summary_template)
+system_prompt_template = PromptTemplate(
+    input_variables=["information"], template=summary_template
+)
 
 llm = ChatOpenAI(
     temperature=0,
-    model="gpt-4.1-nano", )
+    model="gpt-4.1-nano",
+)
 
 console = Console()
 

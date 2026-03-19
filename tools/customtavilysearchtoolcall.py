@@ -10,6 +10,7 @@ load_dotenv()
 
 tavily = TavilyClient()
 
+
 @tool
 def search(query: str) -> dict:
     """
@@ -22,13 +23,20 @@ def search(query: str) -> dict:
     print(f"Searching internet for {query}")
     return tavily.search(query=query)
 
+
 llm = ChatOpenAI(model="gpt-4o-mini")
 tools = [search]
 
 agent = create_agent(model=llm, tools=tools)
 
 # noinspection PyTypeChecker
-result = agent.invoke({"messages": HumanMessage(content="List 3 jobs posting in Hyderabad for LLM Engineering")})
+result = agent.invoke(
+    {
+        "messages": HumanMessage(
+            content="List 3 jobs posting in Hyderabad for LLM Engineering"
+        )
+    }
+)
 
 console = Console()
 if "messages" in result:

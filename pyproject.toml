@@ -15,4 +15,7 @@ dependencies = [
     "langchain-openrouter>=0.1.0",
     "python-dotenv>=1.1.1",
     "rich>=14.3.3",
+    "langchain-tavily>=0.2.13",
+    "tavily-python>=0.7.12",
+    "rich>=14.3.3",
 ]

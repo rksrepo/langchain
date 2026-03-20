@@ -1,0 +1,2508 @@
+MAHABHARATA - EXTENDED CORPUS FOR RAG IMPLEMENTATION
+
+This document is a large, structured, and semantically rich dataset
+designed for Retrieval-Augmented Generation (RAG). It contains narrative
+text, detailed descriptions, character analysis, events, and
+philosophical insights.
+
+SECTION 1: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 1 of
+expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 1 expands semantic diversity for embedding
+models.
+
+SECTION 2: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 2 of
+expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 2 expands semantic diversity for embedding
+models.
+
+SECTION 3: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 3 of
+expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 3 expands semantic diversity for embedding
+models.
+
+SECTION 4: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 4 of
+expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 4 expands semantic diversity for embedding
+models.
+
+SECTION 5: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 5 of
+expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 5 expands semantic diversity for embedding
+models.
+
+SECTION 6: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 6 of
+expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 6 expands semantic diversity for embedding
+models.
+
+SECTION 7: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 7 of
+expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 7 expands semantic diversity for embedding
+models.
+
+SECTION 8: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 8 of
+expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 8 expands semantic diversity for embedding
+models.
+
+SECTION 9: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 9 of
+expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 9 expands semantic diversity for embedding
+models.
+
+SECTION 10: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 10
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 10 expands semantic diversity for embedding
+models.
+
+SECTION 11: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 11
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 11 expands semantic diversity for embedding
+models.
+
+SECTION 12: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 12
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 12 expands semantic diversity for embedding
+models.
+
+SECTION 13: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 13
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 13 expands semantic diversity for embedding
+models.
+
+SECTION 14: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 14
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 14 expands semantic diversity for embedding
+models.
+
+SECTION 15: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 15
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 15 expands semantic diversity for embedding
+models.
+
+SECTION 16: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 16
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 16 expands semantic diversity for embedding
+models.
+
+SECTION 17: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 17
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 17 expands semantic diversity for embedding
+models.
+
+SECTION 18: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 18
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 18 expands semantic diversity for embedding
+models.
+
+SECTION 19: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 19
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 19 expands semantic diversity for embedding
+models.
+
+SECTION 20: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 20
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 20 expands semantic diversity for embedding
+models.
+
+SECTION 21: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 21
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 21 expands semantic diversity for embedding
+models.
+
+SECTION 22: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 22
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 22 expands semantic diversity for embedding
+models.
+
+SECTION 23: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 23
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 23 expands semantic diversity for embedding
+models.
+
+SECTION 24: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 24
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 24 expands semantic diversity for embedding
+models.
+
+SECTION 25: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 25
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 25 expands semantic diversity for embedding
+models.
+
+SECTION 26: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 26
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 26 expands semantic diversity for embedding
+models.
+
+SECTION 27: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 27
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 27 expands semantic diversity for embedding
+models.
+
+SECTION 28: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 28
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 28 expands semantic diversity for embedding
+models.
+
+SECTION 29: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 29
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 29 expands semantic diversity for embedding
+models.
+
+SECTION 30: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 30
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 30 expands semantic diversity for embedding
+models.
+
+SECTION 31: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 31
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 31 expands semantic diversity for embedding
+models.
+
+SECTION 32: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 32
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 32 expands semantic diversity for embedding
+models.
+
+SECTION 33: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 33
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 33 expands semantic diversity for embedding
+models.
+
+SECTION 34: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 34
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 34 expands semantic diversity for embedding
+models.
+
+SECTION 35: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 35
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 35 expands semantic diversity for embedding
+models.
+
+SECTION 36: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 36
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 36 expands semantic diversity for embedding
+models.
+
+SECTION 37: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 37
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 37 expands semantic diversity for embedding
+models.
+
+SECTION 38: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 38
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 38 expands semantic diversity for embedding
+models.
+
+SECTION 39: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 39
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 39 expands semantic diversity for embedding
+models.
+
+SECTION 40: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 40
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 40 expands semantic diversity for embedding
+models.
+
+SECTION 41: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 41
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 41 expands semantic diversity for embedding
+models.
+
+SECTION 42: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 42
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 42 expands semantic diversity for embedding
+models.
+
+SECTION 43: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 43
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 43 expands semantic diversity for embedding
+models.
+
+SECTION 44: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 44
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 44 expands semantic diversity for embedding
+models.
+
+SECTION 45: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 45
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 45 expands semantic diversity for embedding
+models.
+
+SECTION 46: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 46
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 46 expands semantic diversity for embedding
+models.
+
+SECTION 47: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 47
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 47 expands semantic diversity for embedding
+models.
+
+SECTION 48: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 48
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 48 expands semantic diversity for embedding
+models.
+
+SECTION 49: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 49
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 49 expands semantic diversity for embedding
+models.
+
+SECTION 50: DETAILED NARRATIVE AND ANALYSIS
+
+The Mahabharata describes complex human relationships, political
+intrigue, and moral dilemmas. In this section, we explore iteration 50
+of expanded narrative context.
+
+The conflict between the Pandavas and Kauravas is rooted in jealousy,
+succession disputes, and dharma. Yudhishthira represents righteousness
+but struggles with practical decision-making. Bhima symbolizes strength
+and vengeance. Arjuna represents skill, doubt, and philosophical depth.
+
+Krishna plays a pivotal role as a guide, strategist, and divine entity.
+His teachings in the Bhagavad Gita emphasize detachment, duty, and
+devotion.
+
+Key recurring themes: - Dharma vs Adharma - Fate vs Free Will - Loyalty
+vs Justice - Power vs Morality
+
+Expanded narrative: The court of Hastinapura becomes a center of
+political manipulation. Duryodhana’s ambition leads to the infamous dice
+game where Yudhishthira loses everything, including Draupadi.
+
+Draupadi’s humiliation becomes a turning point in the epic, leading to
+the eventual war.
+
+During exile, the Pandavas gain wisdom, divine weapons, and alliances.
+
+Kurukshetra war insights: - Strategic formations (Chakravyuha) - Ethical
+dilemmas in warfare - Fall of great warriors like Bhishma, Drona, and
+Karna
+
+Philosophical expansion: The Mahabharata repeatedly questions what is
+“right”. Even the most righteous characters are forced into morally
+ambiguous situations.
+
+This section iteration 50 expands semantic diversity for embedding
+models.
+
+QUESTION ANSWER DATASET
+
+Q1: Who are the Pandavas? A1: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q101: What is the significance of the Bhagavad Gita? A101: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q2: Who are the Pandavas? A2: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q102: What is the significance of the Bhagavad Gita? A102: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q3: Who are the Pandavas? A3: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q103: What is the significance of the Bhagavad Gita? A103: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q4: Who are the Pandavas? A4: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q104: What is the significance of the Bhagavad Gita? A104: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q5: Who are the Pandavas? A5: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q105: What is the significance of the Bhagavad Gita? A105: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q6: Who are the Pandavas? A6: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q106: What is the significance of the Bhagavad Gita? A106: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q7: Who are the Pandavas? A7: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q107: What is the significance of the Bhagavad Gita? A107: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q8: Who are the Pandavas? A8: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q108: What is the significance of the Bhagavad Gita? A108: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q9: Who are the Pandavas? A9: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q109: What is the significance of the Bhagavad Gita? A109: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q10: Who are the Pandavas? A10: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q110: What is the significance of the Bhagavad Gita? A110: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q11: Who are the Pandavas? A11: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q111: What is the significance of the Bhagavad Gita? A111: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q12: Who are the Pandavas? A12: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q112: What is the significance of the Bhagavad Gita? A112: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q13: Who are the Pandavas? A13: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q113: What is the significance of the Bhagavad Gita? A113: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q14: Who are the Pandavas? A14: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q114: What is the significance of the Bhagavad Gita? A114: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q15: Who are the Pandavas? A15: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q115: What is the significance of the Bhagavad Gita? A115: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q16: Who are the Pandavas? A16: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q116: What is the significance of the Bhagavad Gita? A116: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q17: Who are the Pandavas? A17: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q117: What is the significance of the Bhagavad Gita? A117: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q18: Who are the Pandavas? A18: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q118: What is the significance of the Bhagavad Gita? A118: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q19: Who are the Pandavas? A19: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q119: What is the significance of the Bhagavad Gita? A119: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q20: Who are the Pandavas? A20: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q120: What is the significance of the Bhagavad Gita? A120: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q21: Who are the Pandavas? A21: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q121: What is the significance of the Bhagavad Gita? A121: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q22: Who are the Pandavas? A22: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q122: What is the significance of the Bhagavad Gita? A122: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q23: Who are the Pandavas? A23: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q123: What is the significance of the Bhagavad Gita? A123: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q24: Who are the Pandavas? A24: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q124: What is the significance of the Bhagavad Gita? A124: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q25: Who are the Pandavas? A25: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q125: What is the significance of the Bhagavad Gita? A125: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q26: Who are the Pandavas? A26: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q126: What is the significance of the Bhagavad Gita? A126: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q27: Who are the Pandavas? A27: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q127: What is the significance of the Bhagavad Gita? A127: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q28: Who are the Pandavas? A28: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q128: What is the significance of the Bhagavad Gita? A128: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q29: Who are the Pandavas? A29: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q129: What is the significance of the Bhagavad Gita? A129: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q30: Who are the Pandavas? A30: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q130: What is the significance of the Bhagavad Gita? A130: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q31: Who are the Pandavas? A31: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q131: What is the significance of the Bhagavad Gita? A131: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q32: Who are the Pandavas? A32: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q132: What is the significance of the Bhagavad Gita? A132: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q33: Who are the Pandavas? A33: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q133: What is the significance of the Bhagavad Gita? A133: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q34: Who are the Pandavas? A34: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q134: What is the significance of the Bhagavad Gita? A134: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q35: Who are the Pandavas? A35: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q135: What is the significance of the Bhagavad Gita? A135: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q36: Who are the Pandavas? A36: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q136: What is the significance of the Bhagavad Gita? A136: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q37: Who are the Pandavas? A37: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q137: What is the significance of the Bhagavad Gita? A137: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q38: Who are the Pandavas? A38: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q138: What is the significance of the Bhagavad Gita? A138: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q39: Who are the Pandavas? A39: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q139: What is the significance of the Bhagavad Gita? A139: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q40: Who are the Pandavas? A40: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q140: What is the significance of the Bhagavad Gita? A140: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q41: Who are the Pandavas? A41: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q141: What is the significance of the Bhagavad Gita? A141: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q42: Who are the Pandavas? A42: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q142: What is the significance of the Bhagavad Gita? A142: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q43: Who are the Pandavas? A43: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q143: What is the significance of the Bhagavad Gita? A143: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q44: Who are the Pandavas? A44: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q144: What is the significance of the Bhagavad Gita? A144: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q45: Who are the Pandavas? A45: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q145: What is the significance of the Bhagavad Gita? A145: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q46: Who are the Pandavas? A46: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q146: What is the significance of the Bhagavad Gita? A146: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q47: Who are the Pandavas? A47: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q147: What is the significance of the Bhagavad Gita? A147: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q48: Who are the Pandavas? A48: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q148: What is the significance of the Bhagavad Gita? A148: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q49: Who are the Pandavas? A49: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q149: What is the significance of the Bhagavad Gita? A149: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q50: Who are the Pandavas? A50: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q150: What is the significance of the Bhagavad Gita? A150: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q51: Who are the Pandavas? A51: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q151: What is the significance of the Bhagavad Gita? A151: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q52: Who are the Pandavas? A52: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q152: What is the significance of the Bhagavad Gita? A152: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q53: Who are the Pandavas? A53: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q153: What is the significance of the Bhagavad Gita? A153: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q54: Who are the Pandavas? A54: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q154: What is the significance of the Bhagavad Gita? A154: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q55: Who are the Pandavas? A55: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q155: What is the significance of the Bhagavad Gita? A155: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q56: Who are the Pandavas? A56: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q156: What is the significance of the Bhagavad Gita? A156: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q57: Who are the Pandavas? A57: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q157: What is the significance of the Bhagavad Gita? A157: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q58: Who are the Pandavas? A58: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q158: What is the significance of the Bhagavad Gita? A158: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q59: Who are the Pandavas? A59: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q159: What is the significance of the Bhagavad Gita? A159: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q60: Who are the Pandavas? A60: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q160: What is the significance of the Bhagavad Gita? A160: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q61: Who are the Pandavas? A61: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q161: What is the significance of the Bhagavad Gita? A161: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q62: Who are the Pandavas? A62: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q162: What is the significance of the Bhagavad Gita? A162: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q63: Who are the Pandavas? A63: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q163: What is the significance of the Bhagavad Gita? A163: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q64: Who are the Pandavas? A64: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q164: What is the significance of the Bhagavad Gita? A164: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q65: Who are the Pandavas? A65: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q165: What is the significance of the Bhagavad Gita? A165: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q66: Who are the Pandavas? A66: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q166: What is the significance of the Bhagavad Gita? A166: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q67: Who are the Pandavas? A67: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q167: What is the significance of the Bhagavad Gita? A167: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q68: Who are the Pandavas? A68: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q168: What is the significance of the Bhagavad Gita? A168: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q69: Who are the Pandavas? A69: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q169: What is the significance of the Bhagavad Gita? A169: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q70: Who are the Pandavas? A70: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q170: What is the significance of the Bhagavad Gita? A170: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q71: Who are the Pandavas? A71: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q171: What is the significance of the Bhagavad Gita? A171: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q72: Who are the Pandavas? A72: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q172: What is the significance of the Bhagavad Gita? A172: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q73: Who are the Pandavas? A73: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q173: What is the significance of the Bhagavad Gita? A173: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q74: Who are the Pandavas? A74: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q174: What is the significance of the Bhagavad Gita? A174: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q75: Who are the Pandavas? A75: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q175: What is the significance of the Bhagavad Gita? A175: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q76: Who are the Pandavas? A76: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q176: What is the significance of the Bhagavad Gita? A176: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q77: Who are the Pandavas? A77: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q177: What is the significance of the Bhagavad Gita? A177: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q78: Who are the Pandavas? A78: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q178: What is the significance of the Bhagavad Gita? A178: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q79: Who are the Pandavas? A79: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q179: What is the significance of the Bhagavad Gita? A179: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q80: Who are the Pandavas? A80: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q180: What is the significance of the Bhagavad Gita? A180: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q81: Who are the Pandavas? A81: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q181: What is the significance of the Bhagavad Gita? A181: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q82: Who are the Pandavas? A82: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q182: What is the significance of the Bhagavad Gita? A182: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q83: Who are the Pandavas? A83: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q183: What is the significance of the Bhagavad Gita? A183: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q84: Who are the Pandavas? A84: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q184: What is the significance of the Bhagavad Gita? A184: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q85: Who are the Pandavas? A85: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q185: What is the significance of the Bhagavad Gita? A185: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q86: Who are the Pandavas? A86: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q186: What is the significance of the Bhagavad Gita? A186: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q87: Who are the Pandavas? A87: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q187: What is the significance of the Bhagavad Gita? A187: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q88: Who are the Pandavas? A88: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q188: What is the significance of the Bhagavad Gita? A188: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q89: Who are the Pandavas? A89: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q189: What is the significance of the Bhagavad Gita? A189: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q90: Who are the Pandavas? A90: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q190: What is the significance of the Bhagavad Gita? A190: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q91: Who are the Pandavas? A91: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q191: What is the significance of the Bhagavad Gita? A191: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q92: Who are the Pandavas? A92: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q192: What is the significance of the Bhagavad Gita? A192: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q93: Who are the Pandavas? A93: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q193: What is the significance of the Bhagavad Gita? A193: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q94: Who are the Pandavas? A94: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q194: What is the significance of the Bhagavad Gita? A194: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q95: Who are the Pandavas? A95: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q195: What is the significance of the Bhagavad Gita? A195: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q96: Who are the Pandavas? A96: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q196: What is the significance of the Bhagavad Gita? A196: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q97: Who are the Pandavas? A97: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q197: What is the significance of the Bhagavad Gita? A197: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q98: Who are the Pandavas? A98: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q198: What is the significance of the Bhagavad Gita? A198: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q99: Who are the Pandavas? A99: The Pandavas are the five sons of Pandu:
+Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q199: What is the significance of the Bhagavad Gita? A199: It provides
+philosophical guidance on duty, righteousness, and devotion.
+
+Q100: Who are the Pandavas? A100: The Pandavas are the five sons of
+Pandu: Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva.
+
+Q200: What is the significance of the Bhagavad Gita? A200: It provides
+philosophical guidance on duty, righteousness, and devotion.

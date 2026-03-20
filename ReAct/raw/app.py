@@ -51,11 +51,7 @@ def calculate_price_with_tier(price: float, tier: str) -> float:
 
     print(f" >> Executing calculate_price_with_tier for {tier} and price: {price}")
 
-    tier_map = {
-        "bronze": 10,
-        "silver": 20,
-        "gold": 25
-    }
+    tier_map = {"bronze": 10, "silver": 20, "gold": 25}
 
     if price < 0:
         raise ValueError("Price cannot be negative")
@@ -92,10 +88,9 @@ def run_agent(question: str):
             "3. Never calculate any discounts yourself, use only the tools given to do so."
             "4. If the user does not provide any tier, ask for it, do no assume any tier by yourself"
         ),
-
         HumanMessage(
             content=question,
-        )
+        ),
     ]
 
     for iterations in range(1, MAX_ITERATIONS + 1):
@@ -131,5 +126,7 @@ def run_agent(question: str):
 
 
 if __name__ == "__main__":
-    result = run_agent("What is the price for a laptop - give me original price and discounted price with silver tier.?")
+    result = run_agent(
+        "What is the price for a laptop - give me original price and discounted price with silver tier.?"
+    )
     print(result)
